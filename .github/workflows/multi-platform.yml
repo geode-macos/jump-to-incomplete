@@ -37,7 +37,7 @@ jobs:
         uses: geode-sdk/build-geode-mod@main
         with:
           bindings: RayDeeUx/bindings
-          bindings-ref: "230v"
+          bindings-ref: "oh-yeah-sure-let-me-just-lose-ALL-of-my-fucking-progress-great-idea-github-v2"
           combine: true
           target: ${{ matrix.config.target }}
 
